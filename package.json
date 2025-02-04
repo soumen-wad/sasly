@@ -1,6 +1,7 @@
 {
   "name": "sasly",
   "version": "1.0.0",
+  "description": "",
   "homepage": "https://github.com/soumen-wad/sasly#readme",
   "bugs": {
     "url": "https://github.com/soumen-wad/sasly/issues"
@@ -37,6 +38,5 @@
     "postcss": "^8.5.1",
     "sass": "^1.83.4",
     "tailwindcss": "^4.0.1"
-  },
-  "description": ""
+  }
 }
